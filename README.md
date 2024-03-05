@@ -13,7 +13,7 @@
 
 ## Description
 
-This is a personal portfolio page using React and the various features that React for Web provides.
+This is a personal portfolio page using React. 
 
 ## Visuals
 
