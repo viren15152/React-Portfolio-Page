@@ -27,8 +27,8 @@ const About = () => {
             <div>
               <p>
                 {" "}
-                I'm a currently studying to become a Full Stack Web Developer. I have successfully designed and implemented numerous projects, showcasing my ability to deliver high-quality solutions. I am skilled in both front-end and back-end development, utilizing languages such as HTML, CSS and JavaScript,
-
+                I'm a currently studying to become a Full Stack Web Developer. I have successfully designed and implemented numerous projects, showcasing my ability to deliver high-quality solutions. I am skilled in both front-end and back-end development, utilizing languages such as HTML, CSS and JavaScript.
+                In addition to technical skills, I am committed to continuous learning and growth, always exploring new technologies and frameworks to stay ahead in the rapidly evolving field of web development. 
               </p>
             </div>
           </div>
