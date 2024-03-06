@@ -130,4 +130,4 @@ const Navbar = () => {
 };
 export default Navbar;
 
-//I will add the other hrefs once I've created a new Linkdin Profile and 
+//I will add the other hrefs once I've created a new Linkdin Profile and Resume. 
