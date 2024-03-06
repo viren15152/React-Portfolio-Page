@@ -13,11 +13,11 @@
 
 ## Description
 
-This is a personal portfolio page to showcase my projects built using React. 
+This is a personal portfolio page to showcase my projects built using React. The site was deployed via netlify. 
 
 ## Visuals
 
-
+![Screenshot of deployed site](<Screenshot 2024-03-06 at 17.27.16.png>)
 
 ## Technologies Used
 
@@ -37,12 +37,13 @@ This is a personal portfolio page to showcase my projects built using React.
 1. Clone the repository from GitHub
 2. Install node.js
 3. Run npm install to install dependencies.
-4. Run npm start to start the web server and connect
+4. Run npm start to view the application in development mode. 
 5. Run npm run build
-## Usage
-Use the top right navigation links to visit different parts of the website. You can explore the rest of the page by scrolling. The user can click on the project titles to view them via the deployed links. 
 
-Deployed Link: 
+## Usage
+Use the top right navigation links to visit different parts of the website. You can explore the rest of the page by scrolling. The user can click on the project images and view my different applications via the buttons for deployed links and github to view the repos.  
+
+Deployed Link: https://main--resilient-moonbeam-d97f1c.netlify.app/
 
 ## Contributing
 
