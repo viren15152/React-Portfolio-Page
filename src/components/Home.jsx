@@ -12,13 +12,11 @@ const Home = () => {
     <div className="max-w-screen-lg mx-auto flex flex-col items-center justify-center h-full px-4 md:flex-row">
       <div className="flex flex-col justify-center h-full">
         <h2 className="text-4xl sm:text-7xl font-bold text-white">
-          My name is Viren Lala I'm currently training to become a Full Stack Web Developer. 
+          Hi, I'm Viren Lala. 
         </h2>
         <p className="text-gray-500 py-4 max-w-md">
-        I am currently a student learning Full Stack Web Development. My objective is to be the best web developer that I
-                    can be and to contribute to the technology industry. I am a detail
-                    oriented professional with a passion for problem solving and technological advancement. I continually search for ways to expand
-                    and improve my skill set. I recently started my journey in coding in Birmingham University Coding Boot Camp. Along with learning Full Stack Web Development I am also learning C++.
+        I'm a Full Stack Web Developer from the UK.
+
         </p>
         <div>
           <Link

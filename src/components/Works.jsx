@@ -15,7 +15,7 @@ const Works = () => {
         <div className='grid sm:grid-cols-2 md:grid-cols-3 gap-4'>
           {/* Project 1 */}
           <div
-            style={{ backgroundImage: `url(${code})` }}
+            style= {{ backgroundImage: `url(${code})` }}
             className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div'
           >
             {/* Hover Effects */}
