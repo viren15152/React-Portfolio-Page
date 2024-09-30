@@ -17,34 +17,46 @@ const Skills = () => {
                   <p className='my-4'>CSS</p>
               </div>
               <div className='shadow-md shadow-[#040c16] hover:scale-110 duration-500'>
-                  <p className='my-4'>JAVASCRIPT</p>  
+                  <p className='my-4'>JavaScript</p>  
               </div>
               <div className='shadow-md shadow-[#040c16] hover:scale-110 duration-500'>
-                  <p className='my-4'>REACT</p>
+                  <p className='my-4'>React.js</p>
               </div>
               <div className='shadow-md shadow-[#040c16] hover:scale-110 duration-500'>
                   <p className='my-4'>Github</p>
               </div>
               <div className='shadow-md shadow-[#040c16] hover:scale-110 duration-500'>
-                  <p className='my-4'>NODE JS</p>
+                  <p className='my-4'>NODE.js</p>
               </div>
               <div className='shadow-md shadow-[#040c16] hover:scale-110 duration-500'>
-                  <p className='my-4'>MONGO DB</p>
+                  <p className='my-4'>MongoDB</p>
               </div>
               <div className='shadow-md shadow-[#040c16] hover:scale-110 duration-500'>
-                  <p className='my-4'>PWA's</p>
+                  <p className='my-4'>PWA</p>
               </div>
               <div className='shadow-md shadow-[#040c16] hover:scale-110 duration-500'>
-                  <p className='my-4'>MY SQL</p>
+                  <p className='my-4'>MySQL</p>
               </div>
               <div className='shadow-md shadow-[#040c16] hover:scale-110 duration-500'>
                   <p className='my-4'>MERN Stack</p>
               </div>
               <div className='shadow-md shadow-[#040c16] hover:scale-110 duration-500'>
-                  <p className='my-4'>C++</p>
+                  <p className='my-4'>jQuery</p>
               </div>
               <div className='shadow-md shadow-[#040c16] hover:scale-110 duration-500'>
                   <p className='my-4'>GraphQl</p>
+              </div>
+              <div className='shadow-md shadow-[#040c16] hover:scale-110 duration-500'>
+                  <p className='my-4'>NoSQL</p>
+              </div>
+              <div className='shadow-md shadow-[#040c16] hover:scale-110 duration-500'>
+                  <p className='my-4'>API Intergration</p>
+              </div>
+              <div className='shadow-md shadow-[#040c16] hover:scale-110 duration-500'>
+                  <p className='my-4'>ORM</p>
+              </div>
+              <div className='shadow-md shadow-[#040c16] hover:scale-110 duration-500'>
+                  <p className='my-4'>Testing Frameworks</p>
               </div>
           </div>
       </div>

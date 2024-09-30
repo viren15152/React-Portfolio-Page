@@ -20,15 +20,13 @@ const About = () => {
           <div className="max-w-[1000px] w-full grid sm:grid-cols-2 gap-8 px-4">
             <div className="sm:text-right text-4xl font-bold">
               <p>
-                Hello my name is Viren Lala. Please take a
-                look around at my portfolio page built with REACT.
+                Welcome to my portfolio page built with React.js.
               </p>
             </div>
             <div>
               <p>
                 {" "}
-                I'm a currently studying to become a Full Stack Web Developer. I have successfully designed and implemented numerous projects, showcasing my ability to deliver high-quality solutions. I am skilled in both front-end and back-end development, utilizing languages such as HTML, CSS and JavaScript.
-                In addition to technical skills, I am committed to continuous learning and growth, always exploring new technologies and frameworks to stay ahead in the rapidly evolving field of web development. 
+                I am proficient in web development, specializing in HTML, CSS, JavaScript (ES6+), and jQuery for front-end design, utilizing frameworks such as Bootstrap, Bulma, and Tailwind CSS. On the back end, I work with Node.js, Express.js, and API integration, including web, third-party, and server-side APIs. My experience encompasses the MERN stack (MongoDB, Express, React, Node.js), progressive web applications (PWAs), and database management with SQL, MySQL, and NoSQL. I utilize GraphQL for efficient data management, enhancing my ability to deliver dynamic, scalable web applications.I have a solid understanding of Object-Oriented Programming (OOP) and the Model-View-Controller (MVC) architecture. I am skilled in version control with Git, familiar with Agile methodologies, and experienced in testing with Jest. I completed my studies at the University of Birmingham.
               </p>
             </div>
           </div>
