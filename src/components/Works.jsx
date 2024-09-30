@@ -75,18 +75,18 @@ const Works = () => {
             {/* Hover Effects */}
             <div className='opacity-0 group-hover:opacity-100 flex justify-center items-center flex-col'>
               <span className='text-lg font-bold text-white tracking-wider'>
-                Web API Coding Quiz
+                Book Search Engine
               </span>
-              <p className='text-center'>I have created a basic coding question page with a selection of multiple choice questions, under timed conditions.</p>
+              <p className='text-center'>This is a Book Search Engine application that makes use of Google Books API to create a graphql API with Apollo Server. MERN stack is implemented to create the application.</p>
               <div className='pt-8 text-center'>
                 {}
-                <a href='https://viren15152.github.io/Web-APIs-Coding-Quiz/' target='_blank' rel='noopener noreferrer'>
+                <a href='https://mern-book-search-engine-0c88.onrender.com/' target='_blank' rel='noopener noreferrer'>
                   <button className='rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
                     Deployed Link
                   </button>
                 </a>
                 {}
-                <a href='https://github.com/viren15152/Web-APIs-Coding-Quiz' target='_blank' rel='noopener noreferrer'>
+                <a href='https://github.com/viren15152/MERN-Book-Search-Engine' target='_blank' rel='noopener noreferrer'>
                   <button className='rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
                     Github
                   </button>
@@ -129,18 +129,18 @@ const Works = () => {
             {/* Hover Effects */}
             <div className='opacity-0 group-hover:opacity-100 flex justify-center items-center flex-col'>
               <span className='text-lg font-bold text-white tracking-wider'>
-                CMS Tech Blog
+                Sakura Stream
               </span>
-              <p className='text-center'>This is a CMS-Style blog site that developers can use to publish their blog posts and comment on other developers posts. This is a fullstack application that follows the MVC paradigm</p>
+              <p className='text-center'>Sakura Stream is a vibrant and engaging platform designed for anime enthusiasts who seek a dedicated space to explore and save their favorite anime shows.</p>
               <div className='pt-8 text-center'>
                 {}
-                <a href='https://secure-journey-14586-f3f5cbbb08df.herokuapp.com/login' target='_blank' rel='noopener noreferrer'>
+                <a href='https://sakura-stream-1-wm0f.onrender.com/' target='_blank' rel='noopener noreferrer'>
                   <button className='rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
                     Deployed Link
                   </button>
                 </a>
                 {}
-                <a href='https://github.com/viren15152/Model-View-Controller-CMS-Tech-Blog' target='_blank' rel='noopener noreferrer'>
+                <a href='https://github.com/viren15152/sakura-stream' target='_blank' rel='noopener noreferrer'>
                   <button className='rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
                     Github
                   </button>
@@ -156,7 +156,7 @@ const Works = () => {
             {/* Hover Effects */}
             <div className='opacity-0 group-hover:opacity-100 flex justify-center items-center flex-col'>
               <span className='text-lg font-bold text-white tracking-wider'>
-                JS Random Password Generator
+                Password Generator
               </span>
               <p className='text-center'>I've created a password generator with JavaScript. I have created an application that randomly generates a password based on defined criteria.</p>
               <div className='pt-8 text-center'>

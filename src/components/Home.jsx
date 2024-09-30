@@ -16,7 +16,6 @@ const Home = () => {
         </h2>
         <p className="text-gray-500 py-4 max-w-md">
         I'm a Full Stack Web Developer from the UK.
-
         </p>
         <div>
           <Link
