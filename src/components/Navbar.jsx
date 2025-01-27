@@ -16,7 +16,7 @@ const Navbar = () => {
   return (
     <div className='fixed w-full h-[80px] flex justify-between items-center px-4 bg-[#0a192f] text-gray-300'>
       <div>
-        <h1 className=' font-thin text-2xl font-Arial'>Viren Lala Portfolio Page</h1>
+        <h1 className='font-thin text-2xl font-Arial font-bold'>Viren Lala Portfolio Page</h1>
       </div>
       {/* menu */}
       <ul className='hidden md:flex gap-x-8'>
@@ -120,7 +120,7 @@ const Navbar = () => {
               className='flex justify-between items-center w-full text-gray-300'
               href='/(Mr Viren Mahesh Lala) Full-Stack Web Development CV.docx'
             >
-              Resume <BsFillPersonLinesFill size={30} />
+              CV <BsFillPersonLinesFill size={30} />
             </a>
           </li>
         </ul>

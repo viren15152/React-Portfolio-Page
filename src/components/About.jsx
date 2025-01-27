@@ -20,13 +20,19 @@ const About = () => {
           <div className="max-w-[1000px] w-full grid sm:grid-cols-2 gap-8 px-4">
             <div className="sm:text-right text-4xl font-bold">
               <p>
-                Welcome to my portfolio page built with React.js.
+              Welcome to my portfolio, a space where I showcase my journey as a web developer. This site is built with **React.js**, reflecting my passion for creating dynamic and interactive web applications.
               </p>
             </div>
             <div>
               <p>
                 {" "}
-                I am proficient in web development, specializing in HTML, CSS, JavaScript (ES6+), and jQuery for front-end design, utilizing frameworks such as Bootstrap, Bulma, and Tailwind CSS. On the back end, I work with Node.js, Express.js, and API integration, including web, third-party, and server-side APIs. My experience encompasses the MERN stack (MongoDB, Express, React, Node.js), progressive web applications (PWAs), and database management with SQL, MySQL, and NoSQL. I utilize GraphQL for efficient data management, enhancing my ability to deliver dynamic, scalable web applications.I have a solid understanding of Object-Oriented Programming (OOP) and the Model-View-Controller (MVC) architecture. I am skilled in version control with Git, familiar with Agile methodologies, and experienced in testing with Jest. I completed my studies at the University of Birmingham.
+                Welcome to my portfolio, where I showcase my passion for web development.
+
+I specialise in both front-end and back-end development, with experience in HTML, CSS, JavaScript, and frameworks like Bootstrap, Bulma, and Tailwind CSS. On the back end, I work with Node.js, Express.js, and the MERN stack (MongoDB, Express, React, Node.js), building scalable and performant web applications.
+
+I also have experience with databases (SQL/NoSQL), GraphQL, Object-Oriented Programming (OOP), MVC architecture, Git version control, Agile methodologies, and testing with Jest. I graduated from the University of Birmingham, refining my skills and passion for development.
+
+Excited to collaborate on innovative projects feel free to reach out!
               </p>
             </div>
           </div>
