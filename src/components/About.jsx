@@ -20,7 +20,7 @@ const About = () => {
           <div className="max-w-[1000px] w-full grid sm:grid-cols-2 gap-8 px-4">
             <div className="sm:text-right text-4xl font-bold">
               <p>
-              Welcome to my portfolio, a space where I showcase my journey as a web developer. This site is built with **React.js**, reflecting my passion for creating dynamic and interactive web applications.
+              Welcome to my portfolio.
               </p>
             </div>
             <div>
@@ -32,7 +32,6 @@ I specialise in both front-end and back-end development, with experience in HTML
 
 I also have experience with databases (SQL/NoSQL), GraphQL, Object-Oriented Programming (OOP), MVC architecture, Git version control, Agile methodologies, and testing with Jest. I graduated from the University of Birmingham, refining my skills and passion for development.
 
-Excited to collaborate on innovative projects feel free to reach out!
               </p>
             </div>
           </div>
