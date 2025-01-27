@@ -13,11 +13,15 @@
 
 ## Description
 
-This is a personal portfolio page to showcase my projects built using React. The site was deployed via netlify. 
+This is my personal portfolio website, built using React.js, to showcase my projects and skills. The site is designed to provide a seamless user experience and is fully responsive across all devices. It has been deployed using Netlify for reliable hosting and performance.
 
 ## Visuals
 
-![Screenshot of deployed site](<Screenshot 2024-03-06 at 17.27.16.png>)
+![alt text](<src/assets/Screenshot 2025-01-27 at 16.38.36.png>)
+![alt text](<src/assets/Screenshot 2025-01-27 at 16.38.46.png>)
+![alt text](<src/assets/Screenshot 2025-01-27 at 16.38.52.png>)
+![alt text](<src/assets/Screenshot 2025-01-27 at 16.38.59.png>)
+![alt text](<src/assets/Screenshot 2025-01-27 at 16.39.07.png>)
 
 ## Technologies Used
 
