@@ -21,18 +21,18 @@ const Works = () => {
             {/* Hover Effects */}
             <div className='opacity-0 group-hover:opacity-100 flex justify-center items-center flex-col'>
               <span className='text-lg font-bold text-white tracking-wider'>
-                Weather Dashboard
+                Sakura Stream
               </span>
-              <p className='text-center'>This is a weather dashboard that will present the user with today's current weather data and then a 5-day forecast for the proceeding dates.</p>
+              <p className='text-center'>Sakura Stream is a vibrant and engaging platform designed for anime enthusiasts who seek a dedicated space to explore and save their favorite anime shows.</p>
               <div className='pt-8 text-center'>
                 {}
-                <a href='https://viren15152.github.io/06-Weather-Dashboard-Server-Side-APIs-Viren/' target='_blank' rel='noopener noreferrer'>
+                <a href='https://sakura-stream-1-wm0f.onrender.com/' target='_blank' rel='noopener noreferrer'>
                   <button className='rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
                     Deployed Link
                   </button>
                 </a>
                 {}
-                <a href='https://github.com/viren15152/06-Weather-Dashboard-Server-Side-APIs-Viren' target='_blank' rel='noopener noreferrer'>
+                <a href='https://github.com/viren15152/sakura-stream' target='_blank' rel='noopener noreferrer'>
                   <button className='rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
                     Github
                   </button>
@@ -75,18 +75,18 @@ const Works = () => {
             {/* Hover Effects */}
             <div className='opacity-0 group-hover:opacity-100 flex justify-center items-center flex-col'>
               <span className='text-lg font-bold text-white tracking-wider'>
-                Book Search Engine
+                SVG-Logo-Maker
               </span>
-              <p className='text-center'>This is a Book Search Engine application that makes use of Google Books API to create a graphql API with Apollo Server. MERN stack is implemented to create the application.</p>
+              <p className='text-center'>This application enables users to enter inputs into an inquirer prompt in order to generate a logo within a "logo.svg" file.</p>
               <div className='pt-8 text-center'>
                 {}
-                <a href='https://mern-book-search-engine-0c88.onrender.com/' target='_blank' rel='noopener noreferrer'>
+                <a href='https://drive.google.com/file/d/1P34TPMfR3ei4cyN-MbqK01m_5Pdrre5n/view' target='_blank' rel='noopener noreferrer'>
                   <button className='rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
-                    Deployed Link
+                    Video-Link
                   </button>
                 </a>
                 {}
-                <a href='https://github.com/viren15152/MERN-Book-Search-Engine' target='_blank' rel='noopener noreferrer'>
+                <a href='https://github.com/viren15152/Object-Orientated-Programming-SVG-Logo-Maker' target='_blank' rel='noopener noreferrer'>
                   <button className='rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
                     Github
                   </button>
@@ -129,18 +129,18 @@ const Works = () => {
             {/* Hover Effects */}
             <div className='opacity-0 group-hover:opacity-100 flex justify-center items-center flex-col'>
               <span className='text-lg font-bold text-white tracking-wider'>
-                Sakura Stream
+                Weather Dashboard
               </span>
-              <p className='text-center'>Sakura Stream is a vibrant and engaging platform designed for anime enthusiasts who seek a dedicated space to explore and save their favorite anime shows.</p>
+              <p className='text-center'>This is a weather dashboard that will present the user with today's current weather data and then a 5-day forecast for the proceeding dates.</p>
               <div className='pt-8 text-center'>
                 {}
-                <a href='https://sakura-stream-1-wm0f.onrender.com/' target='_blank' rel='noopener noreferrer'>
+                <a href='https://viren15152.github.io/06-Weather-Dashboard-Server-Side-APIs-Viren/' target='_blank' rel='noopener noreferrer'>
                   <button className='rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
                     Deployed Link
                   </button>
                 </a>
                 {}
-                <a href='https://github.com/viren15152/sakura-stream' target='_blank' rel='noopener noreferrer'>
+                <a href='https://github.com/viren15152/06-Weather-Dashboard-Server-Side-APIs-Viren' target='_blank' rel='noopener noreferrer'>
                   <button className='rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
                     Github
                   </button>
@@ -182,6 +182,4 @@ const Works = () => {
 };
 
 export default Works;
-
-
 
