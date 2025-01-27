@@ -1,6 +1,6 @@
 import React from 'react';
 import { HiArrowNarrowRight } from 'react-icons/hi';
-import me from '../assets/Tiger.avif';  // Ensure the correct path to your image
+import me from '../assets/Tiger.avif';  
 import { Link } from "react-scroll";
 
 const Home = () => {
@@ -10,10 +10,10 @@ const Home = () => {
         {/* Text Section */}
         <div className="flex flex-col justify-center h-full text-center md:text-left">
           <h2 className="text-4xl sm:text-7xl font-bold text-white">
-            Hello, I'm Viren Lala.
+            Hello, I'm Mr Viren Lala
           </h2>
           <p className="text-gray-500 py-4 max-w-md mx-auto md:mx-0">
-            I'm a Full Stack Web Developer from the UK.
+            I'm a Full Stack Web Developer from the UK 🇬🇧.
           </p>
           <div>
             <Link

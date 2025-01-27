@@ -20,18 +20,13 @@ const About = () => {
           <div className="max-w-[1000px] w-full grid sm:grid-cols-2 gap-8 px-4">
             <div className="sm:text-right text-4xl font-bold">
               <p>
-              Welcome to my portfolio.
+              Welcome to my portfolio, built using **React.js** 
               </p>
             </div>
             <div>
               <p>
                 {" "}
-                Welcome to my portfolio, where I showcase my passion for web development.
-
-I specialise in both front-end and back-end development, with experience in HTML, CSS, JavaScript, and frameworks like Bootstrap, Bulma, and Tailwind CSS. On the back end, I work with Node.js, Express.js, and the MERN stack (MongoDB, Express, React, Node.js), building scalable and performant web applications.
-
-I also have experience with databases (SQL/NoSQL), GraphQL, Object-Oriented Programming (OOP), MVC architecture, Git version control, Agile methodologies, and testing with Jest. I graduated from the University of Birmingham, refining my skills and passion for development.
-
+                I am a passionate web developer specialising in front-end and back-end development with expertise in HTML, CSS, JavaScript, and frameworks like Bootstrap, Bulma, and Tailwind CSS. On the back end, I work with Node.js, Express.js, and the MERN stack, creating dynamic, responsive applications. I have experience designing RESTful APIs, integrating third-party services, and working with databases (SQL/NoSQL), GraphQL, and MVC architecture. Proficient in Git, Agile workflows, and testing with Jest, I refined my skills and passion for development at the University of Birmingham.
               </p>
             </div>
           </div>
