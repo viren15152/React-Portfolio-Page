@@ -11,12 +11,15 @@
         @apply cursor-pointer
     }
 }
+
 .content-div {
     background-repeat: no-repeat;
-    background-size: cover;
+    background-size: contain; /* Use 'contain' or 'cover' based on how you want it */
     background-position: center;
     height: 250px;
+    width: 100%;
 }
+
 .content-div:hover {
     background-image: linear-gradient(
         to right,

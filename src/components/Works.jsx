@@ -1,5 +1,10 @@
 import React from 'react';
-import code from '../assets/code2.png';
+import code1 from '../assets/code1.png';
+import code2 from '../assets/code2.png';
+import code3 from '../assets/code3.png';
+import code4 from '../assets/code4.png';
+import code5 from '../assets/code5.png';
+import code6 from '../assets/code6.png';
 
 const Works = () => {
   return (
@@ -15,7 +20,7 @@ const Works = () => {
         <div className='grid sm:grid-cols-2 md:grid-cols-3 gap-4'>
           {/* Project 1 */}
           <div
-            style= {{ backgroundImage: `url(${code})` }}
+            style= {{ backgroundImage: `url(${code1})` }}
             className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div'
           >
             {/* Hover Effects */}
@@ -42,7 +47,7 @@ const Works = () => {
           </div>
           {/* Project 2 */}
           <div
-            style={{ backgroundImage: `url(${code})` }}
+            style={{ backgroundImage: `url(${code2})` }}
             className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div'
           >
             {/* Hover Effects */}
@@ -69,7 +74,7 @@ const Works = () => {
           </div>
           {/* Project 3 */}
           <div
-            style={{ backgroundImage: `url(${code})` }}
+            style={{ backgroundImage: `url(${code3})` }}
             className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div'
           >
             {/* Hover Effects */}
@@ -96,7 +101,7 @@ const Works = () => {
           </div>
           {/* Project 4 */}
           <div
-            style={{ backgroundImage: `url(${code})` }}
+            style={{ backgroundImage: `url(${code4})` }}
             className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div'
           >
             {/* Hover Effects */}
@@ -123,7 +128,7 @@ const Works = () => {
           </div>
           {/* Project 5 */}
           <div
-            style={{ backgroundImage: `url(${code})` }}
+            style={{ backgroundImage: `url(${code5})` }}
             className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div'
           >
             {/* Hover Effects */}
@@ -150,7 +155,7 @@ const Works = () => {
           </div>
           {/* Project 6 */}
           <div
-            style={{ backgroundImage: `url(${code})` }}
+            style={{ backgroundImage: `url(${code6})` }}
             className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div'
           >
             {/* Hover Effects */}
