@@ -129,18 +129,18 @@ const Works = () => {
             {/* Hover Effects */}
             <div className='opacity-0 group-hover:opacity-100 flex justify-center items-center flex-col'>
               <span className='text-lg font-bold text-white tracking-wider'>
-                Weather Dashboard
+                Justice League Profiles
               </span>
-              <p className='text-center'>This is a weather dashboard that will present the user with today's current weather data and then a 5-day forecast for the proceeding dates.</p>
+              <p className='text-center'>Justice League Profiles is an ASP.NET Core Razor Pages application that displays profiles of iconic DC superheroes and villains.</p>
               <div className='pt-8 text-center'>
                 {}
-                <a href='https://viren15152.github.io/06-Weather-Dashboard-Server-Side-APIs-Viren/' target='_blank' rel='noopener noreferrer'>
+                <a href='https://justice-league-profiles.onrender.com/' target='_blank' rel='noopener noreferrer'>
                   <button className='rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
                     Deployed Link
                   </button>
                 </a>
                 {}
-                <a href='https://github.com/viren15152/06-Weather-Dashboard-Server-Side-APIs-Viren' target='_blank' rel='noopener noreferrer'>
+                <a href='https://github.com/viren15152/Justice-League-Profiles' target='_blank' rel='noopener noreferrer'>
                   <button className='rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
                     Github
                   </button>
