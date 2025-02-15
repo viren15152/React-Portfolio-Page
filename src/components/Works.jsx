@@ -12,9 +12,9 @@ const Works = () => {
       <div className='max-w-[1000px] mx-auto p-4 flex flex-col justify-center w-full h-full'>
         <div className='pb-8 w-full flex justify-center items-center flex-col'>
           <p className='text-4xl font-bold inline border-b-4 text-gray-300 border-cyan-500'>
-            Work
+            Project Work
           </p>
-          <p className='py-6 text-1xl'>Here are some of the projects that I have developed.</p>
+          <p className='py-6 text-1xl'>Browse through a selection of web applications I have developed.</p>
         </div>
         {/* Container */}
         <div className='grid sm:grid-cols-2 md:grid-cols-3 gap-4'>
