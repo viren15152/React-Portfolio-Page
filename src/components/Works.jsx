@@ -166,13 +166,13 @@ const Works = () => {
               <p className='text-center'>Weather dashboard that will present the user with todays current weather data and then a 5 day forecast for the proceeding dates.</p>
               <div className='pt-8 text-center'>
                 {}
-                <a href='https://viren15152.github.io/06-Weather-Dashboard-Server-Side-APIs-Viren/' target='_blank' rel='noopener noreferrer'>
+                <a href='https://weather-app-python-x19z.onrender.com' target='_blank' rel='noopener noreferrer'>
                   <button className='rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
                     Deployed Link
                   </button>
                 </a>
                 {}
-                <a href='https://github.com/viren15152/06-Weather-Dashboard-Server-Side-APIs-Viren' target='_blank' rel='noopener noreferrer'>
+                <a href='https://github.com/viren15152/weather-app-python' target='_blank' rel='noopener noreferrer'>
                   <button className='rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
                     Github
                   </button>
