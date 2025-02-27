@@ -1,4 +1,5 @@
 import React from "react";
+import "@fontsource/orbitron"; 
 
 const About = () => { 
   return (
@@ -26,7 +27,7 @@ const About = () => {
             <div>
               <p>
                 {" "}
-                I am a Full-Stack Web Developer, I refined my skills and passion for development at the University of Birmingham. I am continuously learning and evolving to stay at the forefront of the ever-changing tech landscape, always striving to create seamless, user-friendly web applications.
+                I am a Full-Stack Web Developer, I refined my skills and passion for development at the University of Birmingham. I am continuously learning and evolving to stay at the forefront of the ever-changing tech landscape, crafting seamless, user-friendly web applications that enhance digital experiences.
               </p>
             </div>
           </div>

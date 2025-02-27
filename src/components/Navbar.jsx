@@ -14,48 +14,48 @@ const Navbar = () => {
   const handleClick = () => setNav(!nav);
 
   return (
-    <div className='fixed w-full h-[80px] flex justify-between items-center px-4 bg-[#0a192f] text-gray-300'>
+    <div className='fixed w-full h-[80px] flex justify-between items-center px-4 bg-gradient-to-r from-[#0cb7ea] to-[#00a3e0] text-white shadow-lg font-sans z-50'>
       <div>
-        <h1 className='font-thin text-3xl font-Arial font-bold'>| Viren Lala | Full-Stack Web Development Portfolio |</h1>
+        <h1 className='text-3xl font-bold tracking-wide'>Viren Lala | Full-Stack Web Development Portfolio</h1>
       </div>
       {/* menu */}
-      <ul className='hidden md:flex gap-x-8'>
-        <li>
-          <Link to='home' smooth={true} duration={500}>
+      <ul className='hidden md:flex gap-x-8 text-lg'>
+        <li className='font-bold'>
+          <Link to='home' smooth={true} duration={500} className='hover:text-gray-300 transition-all duration-300'>
             Home
           </Link>
         </li>
-        <li>
-          <Link to='about' smooth={true} duration={500}>
+        <li className='font-bold'>
+          <Link to='about' smooth={true} duration={500} className='hover:text-gray-300 transition-all duration-300'>
             About
           </Link>
         </li>
-        <li>
-          <Link to='skills' smooth={true} duration={500}>
+        <li className='font-bold'>
+          <Link to='skills' smooth={true} duration={500} className='hover:text-gray-300 transition-all duration-300'>
             Skills
           </Link>
         </li>
-        <li>
-          <Link to='work' smooth={true} duration={500}>
+        <li className='font-bold'>
+          <Link to='work' smooth={true} duration={500} className='hover:text-gray-300 transition-all duration-300'>
             Work
           </Link>
         </li>
-        <li>
-          <Link to='contact' smooth={true} duration={500}>
+        <li className='font-bold'>
+          <Link to='contact' smooth={true} duration={500} className='hover:text-gray-300 transition-all duration-300'>
             Contact
           </Link>
         </li>
       </ul>
       {/* Hamburger */}
-      <div onClick={handleClick} className='md:hidden z-10'>
-        {!nav ? <FaBars /> : <FaTimes />}
+      <div onClick={handleClick} className='md:hidden z-10 cursor-pointer'>
+        {!nav ? <FaBars size={28} /> : <FaTimes size={28} />}
       </div>
       {/* Mobile menu */}
       <ul
         className={
           !nav
             ? 'hidden'
-            : 'absolute top-0 left-0 w-full h-screen bg-[#0a192f] flex flex-col justify-center items-center'
+            : 'absolute top-0 left-0 w-full h-screen bg-gradient-to-r from-[#0cb7ea] to-[#00a3e0] flex flex-col justify-center items-center'
         }
       >
         <li className='py-6 text-4xl'>
@@ -64,25 +64,21 @@ const Navbar = () => {
           </Link>
         </li>
         <li className='py-6 text-4xl'>
-          {' '}
           <Link onClick={handleClick} to='about' smooth={true} duration={500}>
             About
           </Link>
         </li>
         <li className='py-6 text-4xl'>
-          {' '}
           <Link onClick={handleClick} to='skills' smooth={true} duration={500}>
             Skills
           </Link>
         </li>
         <li className='py-6 text-4xl'>
-          {' '}
           <Link onClick={handleClick} to='work' smooth={true} duration={500}>
             Work
           </Link>
         </li>
         <li className='py-6 text-4xl'>
-          {' '}
           <Link onClick={handleClick} to='contact' smooth={true} duration={500}>
             Contact
           </Link>
@@ -91,33 +87,33 @@ const Navbar = () => {
       {/* Social icons */}
       <div className='hidden lg:flex fixed flex-col top-[35%] left-0'>
         <ul>
-          <li className='w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-blue-600'>
+          <li className='w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-blue-600 rounded-r-lg'>
             <a
-              className='flex justify-between items-center w-full text-gray-300'
+              className='flex justify-between items-center w-full text-white px-4'
               href='https://www.linkedin.com/in/viren-lala-78a243313/'
             >
               Linkedin <FaLinkedin size={30} />
             </a>
           </li>
-          <li className='w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-[#333333]'>
+          <li className='w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-[#333] rounded-r-lg'>
             <a
-              className='flex justify-between items-center w-full text-gray-300'
+              className='flex justify-between items-center w-full text-white px-4'
               href='https://github.com/viren15152'
             >
               Github <FaGithub size={30} />
             </a>
           </li>
-          <li className='w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-[#6fc2b0]'>
+          <li className='w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-[#6fc2b0] rounded-r-lg'>
             <a
-              className='flex justify-between items-center w-full text-gray-300'
+              className='flex justify-between items-center w-full text-white px-4'
               href='mailto:your-email@example.com'
             >
               Email <HiOutlineMail size={30} />
             </a>
           </li>
-          <li className='w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-[#565f69]'>
+          <li className='w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-[#565f69] rounded-r-lg'>
             <a
-              className='flex justify-between items-center w-full text-gray-300'
+              className='flex justify-between items-center w-full text-white px-4'
               href='/(Mr Viren Mahesh Lala) Full-Stack Web Development CV.docx'
             >
               CV <BsFillPersonLinesFill size={30} />
