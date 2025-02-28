@@ -13,7 +13,7 @@ const Home = () => {
             Hello, I'm Viren
           </h2>
           <p className="text-gray-500 py-4 max-w-md mx-auto md:mx-0">
-            I'm a Full-Stack Web Developer from the UK 🇬🇧
+            I'm a Full-Stack Web Developer from the UK 
           </p>
           <div>
             <Link

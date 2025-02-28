@@ -17,7 +17,7 @@ This is my personal portfolio website, built using React.js, to showcase my proj
 
 ## Visuals
 
-![alt text](<src/assets/Screenshot 2025-02-15 at 00.15.10.png>)
+![alt text](<src/assets/Screenshot 2025-02-28 at 23.39.44.png>)
 ![alt text](<src/assets/Screenshot 2025-02-15 at 00.15.19.png>)
 ![alt text](<src/assets/Screenshot 2025-02-22 at 00.36.56.png>)
 ![alt text](<src/assets/Screenshot 2025-02-22 at 00.37.02.png>)

@@ -16,7 +16,7 @@ const Navbar = () => {
   return (
     <div className='fixed w-full h-[80px] flex justify-between items-center px-4 bg-gradient-to-r from-[#0cb7ea] to-[#00a3e0] text-white shadow-lg font-sans z-50'>
       <div>
-        <h1 className='text-3xl font-bold tracking-wide'>Viren Lala | Full-Stack Web Development Portfolio</h1>
+        <h1 className='text-3xl font-bold tracking-wide'>Viren Lala | Full-Stack Web Development Portfolio |</h1>
       </div>
       {/* menu */}
       <ul className='hidden md:flex gap-x-8 text-lg'>
