@@ -14,7 +14,7 @@ const Works = () => {
           <p className='text-4xl font-bold inline border-b-4 text-gray-300 border-cyan-500'>
             Project Work
           </p>
-          <p className='py-6 text-1xl'>Browse through a selection of web applications I have developed.</p>
+          <p className='py-6 text-1xl'>Browse through a selection of web applications I have developed:</p>
         </div>
         {/* Container */}
         <div className='grid sm:grid-cols-2 md:grid-cols-3 gap-4'>
@@ -80,18 +80,18 @@ const Works = () => {
             {/* Hover Effects */}
             <div className='opacity-0 group-hover:opacity-100 flex justify-center items-center flex-col'>
               <span className='text-lg font-bold text-white tracking-wider'>
-                SVG-Logo-Maker
+                THESNEAKERFELLOWSHIP
               </span>
-              <p className='text-center'>This application enables users to enter inputs into an inquirer prompt in order to generate a logo within a "logo.svg" file.</p>
+              <p className='text-center'>(Version 1.0) THESNEAKERFELLOWSHIP is a sneaker marketplace web application built with the MERN stack (MongoDB, Express, React, Node.js).</p>
               <div className='pt-8 text-center'>
                 {}
-                <a href='https://drive.google.com/file/d/1P34TPMfR3ei4cyN-MbqK01m_5Pdrre5n/view' target='_blank' rel='noopener noreferrer'>
+                <a href='https://thesneakerfellowship.onrender.com/' target='_blank' rel='noopener noreferrer'>
                   <button className='rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
-                    Video-Link
+                    Deployed Link
                   </button>
                 </a>
                 {}
-                <a href='https://github.com/viren15152/Object-Orientated-Programming-SVG-Logo-Maker' target='_blank' rel='noopener noreferrer'>
+                <a href='https://github.com/viren15152/TheSneakerFellowship' target='_blank' rel='noopener noreferrer'>
                   <button className='rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
                     Github
                   </button>
